@@ -47,7 +47,7 @@ li {
 
 #current {
     border: 2px solid #ffffff;
-    background: linear-gradient(90deg, rgba(0,141,170,1) 22%, rgba(9,9,121,1) 58%, rgba(210,0,36,1) 100%);
+    background: #000000;
     color: rgba(0,141,170,1);
 }
 
